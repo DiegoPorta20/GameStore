@@ -1,0 +1,15 @@
+.button-filter{
+    background: transparent;
+    border: solid 1px #8a8a8a;
+    padding: 8px 15px;
+    border-radius: 8px;
+    margin: 0 10px;
+    cursor: pointer;
+    transition: 0.5s;
+    color: #fff;
+}
+.button-filter:hover{
+    border: solid 1px #a100ec;
+    background: #a100ec;
+    border-radius: 20px;
+}

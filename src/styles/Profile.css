@@ -1,0 +1,67 @@
+.img-profile{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+.welcome-profile, .div-profile{
+    width: 90%;
+    margin: auto;
+    height: 100px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+}
+.welcome-profile img{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    padding: 0 20px;
+}
+.welcome-profile .welcome-name p{
+    color: #8a8a8a;
+    font-size: 20px;
+    margin: 0;
+}
+.welcome-profile .welcome-name h2{
+    color: #242424;
+    font-size: 40px;
+    margin: 0;
+}
+.div-profile{
+    margin-top: 40px;
+    display: block;
+    height: 100%;
+}
+.div-profile h2{
+    width: 100%;
+    font-size: 30px;
+    color: #242424;
+    padding: 20px;
+    margin: 0;
+}
+.personal-date{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0px 20px 40px 20px;
+    gap: 35px;
+}
+.personal-date p{
+    color: #242424;
+    font-size: 18px;
+}
+.personal-date input{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 15px 0px;
+    border-bottom: 1px solid #8a8a8a;
+}
+.personal-date input:focus{
+    border-bottom: 2px solid #242424;
+}
+.profile h1{
+    color: #fff;
+    text-align: center;
+    margin: 25px;
+}

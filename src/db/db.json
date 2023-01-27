@@ -1,0 +1,120 @@
+{
+    "favorites": [
+        {
+            "id": 0,
+            "name": "Lexma G88",
+            "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99,
+            "size": 10
+        },
+        {
+            "id": 1,
+            "name": "Lexma G88",
+            "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99,
+            "size": 10
+        },
+        {
+            "id": 2,
+            "name": "Lexma G88",
+            "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99,
+            "size": 10
+        },
+        {
+           "id": 3,
+            "name": "Lexma G88",
+            "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99,
+            "size": 10
+        },
+        {
+            "id": 4,
+            "name": "Lexma G88",
+            "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99,
+            "size": 10
+        },
+        {
+            "id": 5,
+            "name": "Lexma G88",
+           "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99,
+            "size": 10
+        }
+    ],
+    "products": [
+        {
+            "id": 0,
+            "name": "Lexma G88",
+            "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99
+        },
+        {
+            "id": 1,
+            "name": "Lexma G88",
+            "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99
+        },
+        {
+            "id": 2,
+            "name": "Lexma G88",
+            "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99
+        },
+        {
+           "id": 3,
+            "name": "Lexma G88",
+            "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99
+        },
+        {
+            "id": 4,
+            "name": "Lexma G88",
+            "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99
+        },
+        {
+            "id": 5,
+            "name": "Lexma G88",
+           "brand": "Razer",
+            "description": "Mouse resistente",
+            "category": "Mouse",
+            "img": "https://promart.vteximg.com.br/arquivos/ids/2033480-1000-1000/image-262a69f8f90744b8b991ed05fb075bd1.jpg?v=637674217767600000",
+            "price": 22.99
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+.personalOption{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.personalOption i{
+    cursor: pointer;
+    color: #fff;
+    padding-right: 25px;
+    font-size: 20px;  
+}
+.photo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
